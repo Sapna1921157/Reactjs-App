@@ -1,0 +1,11 @@
+/* src/PieChart.css */
+
+.chart-container {
+    width: 50%;
+    height: 50%;        /* Adjust the width of the chart */
+    margin: 0 auto;    /* Center the chart horizontally */
+    padding: 20px;     /* Add some padding around the chart */
+    background-color: #f9f9f9; /* Optional: Background color for the container */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
